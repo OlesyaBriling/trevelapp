@@ -1,4 +1,4 @@
-package com.server.trevelapp;
+package com.server.travelapp;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

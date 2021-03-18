@@ -1,4 +1,4 @@
-package com.server.trevelapp;
+package com.server.travelapp;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package com.server.trevelapp;
+package com.server.travelapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
